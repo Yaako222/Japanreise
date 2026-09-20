@@ -1,0 +1,28 @@
+# Roadmap
+
+- [x] Zimmeransicht: Namen anzeigen, QR-Funktionen entfernen, Namenssortierung ergänzen
+- [x] Elterncodes je Kind in der Checkliste verwalten
+- [x] Sichere Elternansicht für abgegebene Zimmerberichte bauen
+- [x] Tagesbericht-Frage umbenennen
+- [x] Tipps-Seite in drei Bereiche gliedern
+- [x] Typprüfung und sichtbare Abläufe prüfen
+- [x] Hinweis bei Abmeldungen: abgelehnte Anträge nicht einfach neu stellen
+- [x] Putz- & Essensplan (Reinigung + Mittagessen) für Musiker und Begleitpersonen
+- [x] Orchester: Instrumente je Musiker erfassen und in Teilnehmendenliste pflegen
+- [x] Orchester: Dirigenten-Bereich mit diktierbaren Probenhinweisen (eigener Code)
+- [x] Orchester: Proben-Ansicht für Musiker nach Instrument gefiltert
+- [x] Orchester: Konzertablauf pflegen, Countdown für Musiker
+- [x] Orchester: Typprüfung und sichtbare Abläufe prüfen
+- [x] Abmelde-Historie: nur noch die Liste pro Person, die einzelne Ereignisliste entfernt
+- [x] Handy-Benachrichtigungen (Web Push, VAPID): Ankündigungen, Programmänderungen, Ausgang beantragt/entschieden/zurück, neuer Tagesbericht, Abend-Erinnerung per Cron
+- [x] Einstellungen-Reiter für Musiker, Begleitung, Eltern und Dirigent: Farbkreis (Akzentfarbe) + Benachrichtigungen ein/aus
+- [x] Musikerbereich: einmalige Zimmer-Anmeldung (Nummer + PIN) bis zum Abmelden
+- [x] Ausgang: Auswahl ganzes/halbes Zimmer oder benutzerdefiniert mit Suche
+- [x] Ausgang: abgelehnte Anträge nach drei Minuten aus Musikeransicht ausblenden
+- [x] Dokumentenbereich für Musiker, Eltern und Begleitung verlinken; Verwaltung beim Dirigenten
+- [x] Hell-/Dunkelmodus in allen Einstellungen ergänzen
+- [x] Ladezeiten bei häufig geöffneten Ansichten verbessern
+- [x] Zwei Sekunden langen Orchester-Vorspann mit austauschbarem Foto ergänzen
+- [x] Hochdringliche Mitteilungen technisch prüfen und Gerätetest vorbereiten
+- [x] Elternbereich: Ankündigungen mit „gelesen“, Ideen & Fragen an die Reiseleitung
+- [x] Begleiter: Elternpost-Seite mit Antworten, Ankündigungen pro Zielgruppe (alle/Musiker/Eltern)
