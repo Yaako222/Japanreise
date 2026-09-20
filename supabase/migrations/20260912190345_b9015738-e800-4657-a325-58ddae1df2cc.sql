@@ -1,0 +1,1 @@
+revoke all on function public.has_role(uuid, app_role) from authenticated;
