@@ -1,1 +1,0 @@
-ALTER TABLE public.trip_days ADD COLUMN IF NOT EXISTS description TEXT;

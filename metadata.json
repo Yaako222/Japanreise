@@ -1,0 +1,6 @@
+{
+  "name": "BOH Japanreise – Unser Tagebuch",
+  "description": "Das gemeinsame Reisetagebuch und Begleiter des BOH Blasorchesters für die Konzerttournee nach Japan: Proben, Konzerte, Ausgang, Zimmer und Elternportal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

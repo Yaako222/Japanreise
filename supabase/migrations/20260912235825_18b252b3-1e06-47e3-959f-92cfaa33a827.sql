@@ -1,2 +1,0 @@
-ALTER TABLE public.outing_requests ADD COLUMN IF NOT EXISTS member_ids uuid[] NOT NULL DEFAULT '{}';
-UPDATE public.outing_requests SET member_ids = ARRAY[requester_participant_id, buddy_participant_id] WHERE cardinality(member_ids) = 0;

@@ -1,2 +1,0 @@
-ALTER TABLE public.daily_entries ADD COLUMN IF NOT EXISTS photo_paths text[] NOT NULL DEFAULT '{}';
-UPDATE public.daily_entries SET photo_paths = ARRAY[photo_path] WHERE photo_path IS NOT NULL AND cardinality(photo_paths) = 0;
